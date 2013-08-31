@@ -1,0 +1,19 @@
+{
+  "name": "马克飞象",
+  "description": "专为印象笔记打造的Markdown编辑器",
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "app": {
+    "urls": [
+      "*://maxiang.info"
+    ],
+    "launch": {
+      "web_url": "http://maxiang.info",
+      "container": "panel"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "128": "icon.png"
+  }
+}
